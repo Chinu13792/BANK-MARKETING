@@ -41,6 +41,7 @@
   10 - day: last contact day of the month (numeric)
   11 - month: last contact month of year (categorical: "jan", "feb", "mar", ..., "nov", "dec")
   12 - duration: last contact duration, in seconds (numeric)
+  
    # other attributes:
   13 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
   14 - pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric, -1 means client was not previously contacted)
